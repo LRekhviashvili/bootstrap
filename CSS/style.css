@@ -1,0 +1,62 @@
+body html{
+    width: 100%;
+}
+
+.section1-background {
+    background-image: url('../images/background1.png');
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.li{
+    list-style: none;
+    color: aliceblue;
+    font-size: 13px;
+    
+}
+.ul{
+    gap: 20px;
+    margin-right: 20px;
+}
+.img{
+    margin: 40px 0 0 60px;
+}
+.p-header {
+    max-width: 500px;
+    width: 100%;
+    font-size: 96px;
+    margin-bottom: 118px;
+}
+.p-header2 {
+    max-width: 375px;
+    width: 100%;
+    font-size: 30px;
+    margin-bottom: 78px;
+}
+.Want{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.flex-wrap{
+    width: 100%x;
+}
+.pizza{
+    height: 100px;
+}
+.pizzaboy{
+    max-width: 500px;
+    height: 500px;
+}
+.section2color{
+    width: 100%;
+    background-color: #FFAA00;
+}
+.section2-paragraph {
+    max-width: 436px;
+    width: 100%;
+    padding-left: 100px;
+}
+.box1{
+    background-color:beige; 
+}
